@@ -74,3 +74,6 @@ The application provides a user-friendly interface where users can enter details
 
 This project is licensed under the MIT License.
 
+<img width="1728" alt="Screenshot 2024-08-15 at 23 37 13" src="https://github.com/user-attachments/assets/b76a9755-788d-49f6-8431-155449ba7ad9">
+
+
