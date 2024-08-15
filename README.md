@@ -1,8 +1,3 @@
-Based on your sample `README.md` and details provided, here's a customized `README.md` for your calorie prediction project. It includes sections tailored to your project's specific needs and instructions.
-
-### `README.md`
-
-```markdown
 # Calories Burned Prediction Using Machine Learning
 
 This project demonstrates a web application for predicting calories burned based on user inputs. It leverages a machine learning model to provide calorie estimates based on various physical and exercise parameters.
@@ -33,7 +28,7 @@ The application provides a user-friendly interface where users can enter details
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calorie-prediction.git
+   git clone https://github.com/Pahinithi/Calories-Burnt-Prediction-using-Machine-Learning/tree/main
    cd calorie-prediction
    ```
 
@@ -77,12 +72,8 @@ The application provides a user-friendly interface where users can enter details
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## Acknowledgments
-
-- Special thanks to [Your Name] for the project inspiration and support.
-```
 
 ### Key Points:
 - **Project Overview:** Brief description of what the project does.
