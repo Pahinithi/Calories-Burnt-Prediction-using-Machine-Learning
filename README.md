@@ -74,15 +74,3 @@ The application provides a user-friendly interface where users can enter details
 
 This project is licensed under the MIT License.
 
-
-### Key Points:
-- **Project Overview:** Brief description of what the project does.
-- **Project Structure:** Explanation of key files and their roles.
-- **Web Application:** Details about the web interface and functionality.
-- **How to Run:** Step-by-step instructions to get the project up and running.
-- **Usage:** Instructions for using the web application.
-- **Model Details:** Information about the machine learning model.
-- **License:** Licensing information.
-- **Acknowledgments:** Any acknowledgments or credits.
-
-Replace placeholders such as `https://github.com/your-username/calorie-prediction` with your actual GitHub URL. Feel free to adjust any sections based on specific details or changes in your project.
